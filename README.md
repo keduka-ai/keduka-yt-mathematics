@@ -30,14 +30,20 @@ The **Keduka YT — Mathematics** project is the open curriculum behind the math
 The curriculum is organized into six parts, progressing through levels of complexity while highlighting the relevance of each topic to Machine Learning.
 
 ```text
-├── Part_I_Foundations/
-│   ├── Chapter_01_Arithmetic/
-│   └── ...
-├── Part_II_...
-├── Part_III_...
-├── Part_IV_...
-├── Part_V_...
-└── Part_VI_...
+lectures/
+├── ch01-arithmetic/
+│   ├── s01-basic-operations/
+│   ├── s02-properties-of-numbers/
+│   └── s03-fractions-decimals-percentages/
+├── ch02-intermediate-arithmetic/
+│   ├── s01-number-properties-rational-numbers/
+│   └── s02-ratios-proportions-percentages/
+├── ch03-algebra/
+│   ├── s01-algebraic-expressions/
+│   ├── s02-linear-equations-inequalities/
+│   └── s03-algebraic-properties/
+└── ch04-advanced-algebra-functions/
+    └── s01-functions-and-models/
 ```
 
 Each chapter ships alongside a YouTube lesson on the Keduka AI School channel and links back to interactive lessons inside the KAIS platform.
