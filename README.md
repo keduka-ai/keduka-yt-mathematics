@@ -19,7 +19,7 @@
 
 ## About Keduka
 
-This repository is part of **[Keduka AI School (KAIS)](https://keduka.com)**, an AI-powered learning platform by **Keduka Cognitive Services (KCS)**. KAIS pairs every learner with adaptive AI teachers across data science, machine learning, NLP, computer vision, federated learning, physics, chemistry, biology, and mathematics.
+This repository is part of **[Keduka AI School (KAIS)](https://keduka.com)**, an AI-powered learning platform by **Keduka Cognitive Services (KCS)**. KAIS pairs every learner with adaptive AI teachers across data science, machine learning, NLP, computer vision, federated learning, physics, and mathematics.
 
 > Learn AI the **fun** way — personalized tutoring that adapts to your pace.
 
